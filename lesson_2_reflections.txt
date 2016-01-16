@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+You add a .git file. This allows you to save different commits which is the whole point of using git.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows you to be specific about what you want to commit allowing you to not commit all files in a repository if you don't want to
+How can you use the staging area to make sure you have one commit per logical change?
+You do not have to add all the files in your working directory to your staging area. This allows you to be more precise with your commits.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches allow you to create different versions of your game like easy/hard mode or making the game in different languages.
+How do diagrams help you visualize the branch structure?
+They help by giving you a visual aid to see how all the commits are connected and each parent commit.
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Using Git is much faster, while doing everything manually allows for less mistakes.
